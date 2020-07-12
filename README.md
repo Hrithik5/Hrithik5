@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I am Hrithik Chauhan 👋
+  
+- ⚡ I’m a Frontend Developer.
+- 🌱 I’m currently learning Django.
+- 👯 I’m looking to collaborate on full stack projects.
+- 🤔 I’m looking for help with backend services and API's.
+
+
+
+
 
 <!--
 **Hrithik5/Hrithik5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
