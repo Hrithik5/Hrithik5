@@ -1,8 +1,6 @@
 ### Hi there, I am Hrithik Chauhan 👋
 <br>
-<-- <a href="https://twitter.com/dhruvshah281">
-  <img align="left" alt="Dhruv Desai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
+
 <a href="https://www.linkedin.com/in/hrithik-chauhan-b2a643150/">
   <img align="left" alt="Hrithik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
