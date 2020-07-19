@@ -18,7 +18,7 @@
 - 🤔 I’m looking for help with backend services and API's.
 
 
-![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=true)
+<!--![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=true) -->
 
 
 <!--
