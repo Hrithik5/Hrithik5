@@ -19,7 +19,7 @@
 - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies.
 
 
-![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=true)
+![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=truetheme=cobalt)
 
 
 <!--
