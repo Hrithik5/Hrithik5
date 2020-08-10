@@ -14,7 +14,7 @@
   
 - ⚡ I’m a Frontend Developer.
 - 🌱 I’m currently learning Django.
-- 💬 Ask me about Web related stuff
+- 💬 Ask me about Web & design related stuff.
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with backend services and API's.
  <!-- - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies. -->
