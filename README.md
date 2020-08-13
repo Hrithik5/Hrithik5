@@ -1,15 +1,11 @@
 ### Hi there, I am Hrithik Chauhan 👋
 <br>
 
-
-
-<br/>
-<br>
-<br>
- ## I'm a Husband, Father, Developer, and Teacher!
+ ## I'm a Student and Developer!
 - ⚡ I’m a Frontend Developer.
 - 🌱 I’m currently learning Django.
 - 💬 Ask me about Web & UI related stuff.
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with backend services and API's.
  <!-- - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies. -->
