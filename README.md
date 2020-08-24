@@ -7,7 +7,7 @@
 - 💬 Ask me about Web & UI related stuff.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate on full stack projects.
-- 🤔 I’m looking for help with backend services and API's.
+- 🤔 I’m looking for help with backend services and API's.  
  <!-- - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies. -->
  
  <br>
