@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with backend services and API's.  
- <!-- - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies. -->
+ <!-- - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies. -->    
  
  <br>
  
