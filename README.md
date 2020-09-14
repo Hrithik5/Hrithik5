@@ -1,4 +1,4 @@
-### Hi there, I am Hrithik Chauhan 👋
+### Hi there, I am Hrithik Chauhan 👋   
 <br> 
   
  ## I'm a Student and Developer!            
