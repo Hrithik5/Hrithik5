@@ -3,8 +3,7 @@
   
  ## I'm a Student and Developer!            
 - ⚡ I’m a Frontend Developer.     
-- 🌱 I’m currently learning Django. 
-- 💬 Ask me about Web & UI related stuff.      
+- 🌱 I’m currently learning Django.       
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with backend services and API's.  
