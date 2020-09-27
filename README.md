@@ -1,7 +1,7 @@
 ### Hi there, I am Hrithik Chauhan 👋   
 <br>    
   
- ## I'm a Student and Developer!            
+ ## I'm a Student and Developer!  
 - ⚡ I’m a Frontend Developer.     
 - 🌱 I’m currently learning Django.           
 - 👯 I’m looking to collaborate on full stack projects.
