@@ -9,7 +9,7 @@
 <!--- 🥅 2020 Goals: Contribute more to Open Source projects -->   
  <!-- - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies. -->    
       
- <br>
+ <br>   
  
  ## Connect with me:
  <br>
