@@ -2,7 +2,7 @@
 <br>     
      
  ## I'm a Student and Developer!  
-- ⚡ I’m a Frontend Developer.       
+- ⚡ I’m a Frontend Developer.         
 - 🌱 I’m currently learning Django.            
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with backend services and API's.  
