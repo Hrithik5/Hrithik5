@@ -45,7 +45,6 @@
 
 
 <br>
-<br>
 ![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=truetheme=cobalt)
 
 
