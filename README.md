@@ -19,9 +19,7 @@
 <a href="https://www.hackerrank.com/hrithikchauhan01">
   <img align="left" alt="Hrithik's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
-<br>
 <br> 
-<br>      
 
 ## Languages and Tools: 
 
