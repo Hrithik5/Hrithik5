@@ -7,13 +7,13 @@
 - 👯 I’m looking to collaborate on full stack projects.      
 - 🤔 I’m looking for help with backend services and API's.  
 <!--- 🥅 2020 Goals: Contribute more to Open Source projects -->   
- <!-- - ⚡ Fun fact: Remember places you've traveled and memorable experiences you've had on your journies. -->    
+ <!-- - ⚡ Fun fact: Remember  places you've traveled and memorable experiences you've had on your journies. -->    
       
  <br>   
  
  ## Connect with me:
  <br>
- <a href="https://www.linkedin.com/in/hrithik-chauhan-b2a643150/">
+ <a href="https://www.linkedin.com/in/hrithik-chauhan-b2a643150/">   
   <img align="left" alt="Hrithik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/hrithikchauhan01">
