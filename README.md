@@ -11,14 +11,14 @@
       
  <br>   
  
- ## Connect with me:
+ <!-- ## Connect with me:
  <br>
  <a href="https://www.linkedin.com/in/hrithik-chauhan-b2a643150/">   
   <img align="left" alt="Hrithik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/hrithikchauhan01">
   <img align="left" alt="Hrithik's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-</a>
+</a> -->
 <br> 
 <br>
 
