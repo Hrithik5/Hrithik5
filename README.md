@@ -2,10 +2,10 @@
 <br>         
            
  ## I'm a Student and Developer!  
-- ⚡ I’m a Frontend Developer.         
+- ⚡ I’m a Full Stack Developer.         
 - 🌱 I’m currently learning Django.            
-- 👯 I’m looking to collaborate on full stack projects.      
-- 🤔 I’m looking for help with backend services and API's.  
+- 👯 I’m looking to collaborate on full stack projects open source projects.      
+<!-- - 🤔 I’m looking for help with backend services and API's. -->  
 <!--- 🥅 2020 Goals: Contribute more to Open Source projects -->   
  <!-- - ⚡ Fun fact: Remember  places you've traveled and memorable experiences you've had on your journies. -->    
       
