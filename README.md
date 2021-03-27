@@ -3,7 +3,7 @@
            
  ## I'm a Student and Developer!  
 - ⚡ I’m a Full Stack Developer.         
-- 🌱 I’m currently learning Django.            
+- 🌱 I’m currently learning Django Rest Framework.            
 - 👯 I’m looking to collaborate on full stack projects open source projects.   
 - 📫 How to reach me: hrithikchauhan01@gmail.com 
 - 💬 Contact me for any freelance opportunity/jobs   
@@ -33,7 +33,8 @@
 <!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  
-<img align="left" alt="bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  -->
+<img align="left" alt="bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+<img align="left" alt="MySQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />  -->
 <br>
 
 ## Languages & Framework 
@@ -42,7 +43,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />   
 <img align="left alt="Django" width="27px" src="https://img.icons8.com/color/48/000000/django.png"/>
-<img align="left" alt="MySQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
 
 
 <br>
