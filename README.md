@@ -3,7 +3,7 @@
            
  ## I'm a Student and Developer!  
 - ⚡ I’m a Full Stack Developer.         
-- 🌱 I’m currently learning, wroking and growing my skills in Django Rest Framework, Data Structures and Algorithms.            
+- 👨🏽‍💻 I’m currently learning, wroking and growing my skills in Django Rest Framework, Data Structures and Algorithms.            
 - 🤝 Open for collaborations in full stack projects or open source projects.   
 - 📫 How to reach me: hrithikchauhan01@gmail.com  
 - 💬 Ask me about React & Django, I am happy to help😄 
