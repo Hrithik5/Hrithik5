@@ -3,38 +3,22 @@
            
  ## I'm a Student and Developer!  
 - ⚡ I’m a Full Stack Developer.         
-- 🌱 I’m currently learning Django Rest Framework.            
-- 👯 I’m looking to collaborate on full stack projects open source projects.   
-- 📫 How to reach me: hrithikchauhan01@gmail.com 
-- 💬 Contact me for any freelance opportunity/jobs   
+- 🌱 I’m currently learning, wroking and growing my skills in Django Rest Framework, Data Structures and Algorithms.            
+- 🤝 Open for collaborations in full stack projects or open source projects.   
+- 📫 How to reach me: hrithikchauhan01@gmail.com  
+- 💬 Ask me about React & Django, I am happy to help😄 
 <!-- - 🤔 I’m looking for help with backend services and API's. -->  
 <!--- 🥅 2020 Goals: Contribute more to Open Source projects -->   
  <!-- - ⚡ Fun fact: Remember  places you've traveled and memorable experiences you've had on your journies. -->    
       
  <br>   
  
- <!-- ## Connect with me:
- <br>
- <a href="https://www.linkedin.com/in/hrithik-chauhan-b2a643150/">   
-  <img align="left" alt="Hrithik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.hackerrank.com/hrithikchauhan01">
-  <img align="left" alt="Hrithik's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-</a> -->
-
 
 ## Tools: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Figma" width="27px" src="https://img.icons8.com/windows/32/000000/figma.png"/>
 <img align="left" alt="Git" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
-
-<!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  
-<img align="left" alt="bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-<img align="left" alt="MySQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />  -->
 <br>
 
 ## Languages & Framework 
@@ -48,9 +32,12 @@
 
 <br>
 <br>
-
-![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=truetheme=cobalt)
-
+<details open>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&line_height=27">
+ </p>
+<!-- ![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=truetheme=cobalt) -->
+</details>
 
 <!--
 **Hrithik5/Hrithik5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
