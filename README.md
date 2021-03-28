@@ -1,4 +1,4 @@
-### Hi there, I am Hrithik Chauhan 👋   
+### Hi there, I am Hrithik Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>         
            
  ## I'm a Student and Developer!  
@@ -7,13 +7,8 @@
 - 🤝 Open for collaborations in full stack projects or open source projects.   
 - 📫 How to reach me: hrithikchauhan01@gmail.com  
 - 💬 Ask me about React & Django, I am happy to help😄 
-<!-- - 🤔 I’m looking for help with backend services and API's. -->  
-<!--- 🥅 2020 Goals: Contribute more to Open Source projects -->   
- <!-- - ⚡ Fun fact: Remember  places you've traveled and memorable experiences you've had on your journies. -->    
-      
  <br>   
- 
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## Tools: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -27,7 +22,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />   
 <img align="left alt="Django" width="27px" src="https://img.icons8.com/color/48/000000/django.png"/>
-
 
 
 <br>
