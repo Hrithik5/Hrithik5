@@ -7,6 +7,7 @@
 - 🤝 Open for collaborations in full stack projects or open source projects.   
 - 📫 How to reach me: hrithikchauhan01@gmail.com  
 - 💬 Ask me about React & Django, I am happy to help😄 
+- 😉 Open source enthusiast 
  <br>   
  
  <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
