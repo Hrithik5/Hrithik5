@@ -4,10 +4,11 @@
  ## I'm a Student and Developer!  
 - ⚡ I’m a Full Stack Developer.         
 - 👨🏽‍💻 I’m currently learning, wroking and growing my skills in Django Rest Framework, Data Structures and Algorithms.            
-- 🤝 Open for collaborations in full stack projects or open source projects.   
+- 🤝 Open for collaborations in full stack projects or open source projects.  
+- 😉 Open source enthusiast  
 - 📫 How to reach me: hrithikchauhan01@gmail.com  
 - 💬 Ask me about React & Django, I am happy to help😄 
-- 😉 Open source enthusiast 
+
  <br>   
  
  <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
