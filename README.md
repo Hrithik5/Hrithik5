@@ -29,8 +29,10 @@
 
 
 <br>
-## My Contribution Streak:
-<hr>
+
+## My Contribution Streak
+
+
 <p>
   <a href="https://github.com/Hrithik5/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik5&theme=bear&hide_border=true&background=0D1117&stroke=0000"/>
