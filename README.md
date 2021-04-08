@@ -38,7 +38,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik5&theme=bear&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 
-<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&line_height=25">
  </p>
 <!-- ![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=truetheme=cobalt) -->
