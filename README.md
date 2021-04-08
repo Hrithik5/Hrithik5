@@ -29,6 +29,11 @@
 
 
 <br>
+### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+<p align="center">
+  <a href="https://github.com/Hrithik5/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik5&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&line_height=30">
