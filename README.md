@@ -28,7 +28,6 @@
 <img align="left alt="Django" width="27px" src="https://img.icons8.com/color/48/000000/django.png"/>
 
 
-<br>
 
 ## My Contribution Streak
 
