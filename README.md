@@ -1,8 +1,8 @@
 ### <h1>Hi there, I am Hrithik Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br>            
                
- ## I'm a Student and Developer!  
-- ⚡ I’m a Full Stack Developer.           
+ ## I'm a Student and Developer!
+- ⚡ I’m a Full Stack Developer. 
 - 👨🏽‍💻 I’m currently learning and growing my skills in Blockchain Technology, Data Structures and Algorithms.            
 - 🤝 Open for collaborations in full stack projects or open source projects.  
 - 😉 Open source enthusiast  
@@ -13,7 +13,7 @@
  
  <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-## Tools: 
+## Tools:     
 
 <img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Figma" width="42px" src="https://img.icons8.com/windows/32/000000/figma.png"/>
