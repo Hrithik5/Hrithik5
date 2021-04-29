@@ -2,7 +2,7 @@
 <br>                   
                        
  ## I'm a Student and Developer!  
-- ⚡ I’m a Full Stack Developer.             
+- ⚡ I’m a Full Stack Developer.               
 - 👨🏽‍💻 I’m currently learning and growing my skills in Blockchain Technology, Data Structures and Algorithms.            
 - 🤝 Open for collaborations in full stack projects or open source projects.         
 - 😉 Open source enthusiast  
