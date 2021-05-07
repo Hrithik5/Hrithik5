@@ -19,7 +19,7 @@
 <img align="left" alt="Figma" width="42px" src="https://img.icons8.com/windows/32/000000/figma.png"/>
 <img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="42px" src="https://img.icons8.com/fluent/50/000000/github.png"/>
-<br><br>
+<br><br>   
 
 ## Languages & Framework 
 <img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
