@@ -1,7 +1,7 @@
 ### <h1>Hi there, I am Hrithik Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>                                  
 <br>                                                               
                                                           
- ## I'm a Student and Developer!                                          
+ ## I'm a Student and Developer!                                            
 - ⚡ I’m a Full Stack Developer.                            
 - 👨🏽‍💻 I’m currently learning and growing my skills in Blockchain Technology, Data Structures and Algorithms.                         
 - 🤝 Open for collaborations in full stack projects or open source projects.           
