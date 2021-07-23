@@ -3,7 +3,7 @@
                                                                  
  ## I'm a Student and Developer!                                                     
 - ⚡ I’m a Full Stack Developer.                                  
-- 👨🏽‍💻 I’m currently learning and growing my skills in Blockchain & Typescript.                                        
+- 👨🏽‍💻 I’m currently learning and growing my skills in Data Structures And Algorithm.                                        
 - 😉 Open source enthusiast  
 - 📫 How to reach me: hrithikchauhan01@gmail.com             
 <!-- - 💬 Ask me about React & Django, I am happy to help😄  -->
