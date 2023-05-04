@@ -26,7 +26,7 @@
   <img align="left alt="ExpressJs" width="42px" src="https://img.icons8.com/fluency/48/null/express-js.png"/> 
 <img align="left" alt="React" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="42px" src="https://img.icons8.com/color/48/000000/python.png" />   
-<img align="left alt="Django" width="42px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<!-- <img align="left alt="Django" width="42px" src="https://img.icons8.com/color/48/000000/django.png"/> -->
 <img align="left" alt="c++" width="42px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
                                                                                                                                                                                                         
 
@@ -37,7 +37,7 @@
 
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&line_height=20">
  
   <a href="https://github.com/Hrithik5/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik5&theme=bear&hide_border=true&background=0D1117&stroke=0000"/>
