@@ -2,8 +2,8 @@
 <br>                                                                              
                                                                  
  ## I am a Computer Science Graduate👨🏻‍🎓                                                    
-- ⚡ I’m a Backend Developer.                                  
-- 👨🏽‍💻 I’m currently working and growing on my skills in Advance Backend Development Technologies and System Design.                                      
+- ⚡ I’m a Devops Engineer.                                  
+- 👨🏽‍💻 I’m currently working and growing on my skills in Advance Devops Methods and System Design.                                      
 - 😉 Open source enthusiast (PS: Always ready for a contribution😁)  
 - 📫 How to reach me: hrithikchauhan01@gmail.com             
 
