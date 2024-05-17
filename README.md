@@ -43,10 +43,10 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
 
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&">
  
   <a href="https://github.com/Hrithik5/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik5&theme=bear&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik5&theme=bear&hide_border=true&"/>
   </a>
  
  </p>
