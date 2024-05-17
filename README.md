@@ -24,12 +24,18 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
            
  <br>   
 
- >### CONNECT WITH ME: 
-<p>
-  <a href="https://github.com/Hrithik5">
+ >### CONNECT WITH ME:
+  <p>
+    <a href="https://github.com/Hrithik5">
     <img src="https://skillicons.dev/icons?i=github,">
-  </a>
-</p>
+    </a>  
+    <a href="www.linkedin.com/in/hrithik-chauhan">
+    <img src="https://skillicons.dev/icons?i=linkedin,">
+    </a>
+    <a href="https://x.com/Hrithik_5">
+    <img src="https://skillicons.dev/icons?i=twitter,">
+    </a>
+  </p>
 <br></br> 
 
 
