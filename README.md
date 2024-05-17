@@ -1,35 +1,41 @@
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)  
-### <h1>Hi there, I am Hrithik Chauhan 🙋🏻‍♂️ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>                                                                                                                                                    
+### <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Hrithik Chauhan</h1>  
+<h3 align="center">DevOps and Cloud Computing Enthusiast </h3>
 <br>                                                                              
                                                                  
- ## I am a Computer Science Graduate👨🏻‍🎓                                                    
-- ⚡ I’m a Devops Engineer.                                  
-- 👨🏽‍💻 I’m currently working and growing on my skills in Advance Devops Methodologies and System Design.                                      
-- 😉 Open source enthusiast (PS: Always ready for a contribution😁)  
-- 📫 How to reach me: hrithikchauhan01@gmail.com             
+ ```yaml
+name: Hrithik Chauhan
+located_in: Mumbai,India
+education: Bachelors in Computer Science and Engineering
+contact: hrithikchauhan01@gmail.com
 
-           
- <br>      
-
-
-## Tools:           
-            
-<img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<!-- <img align="left" alt="Figma" width="42px" src="https://img.icons8.com/windows/32/000000/figma.png"/> -->
-<img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="42px" src="https://img.icons8.com/fluent/50/000000/github.png"/>
-<br><br>   
+fields_of_interests:
+  [
+   "Open Source Development"
+    "Cloud Computing",
+    "DevOps",
+    "System Design",
+    "Rust",
+    "Neovim"
+  ]
   
-## Languages & Framework 
-<div style="width: 2500px">
- <img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left alt="ExpressJs" width="42px" src="https://img.icons8.com/fluency/48/null/express-js.png"/> 
-<img align="left" alt="React" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="42px" src="https://img.icons8.com/color/48/000000/python.png" />   
-<!-- <img align="left alt="Django" width="42px" src="https://img.icons8.com/color/48/000000/django.png"/> -->
-<img align="left" alt="c++" width="42px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-                                                                                                                                                                                                        
+currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
+```
+           
+ <br>   
 
+ >### CONNECT WITH ME: 
+
+<br></br> 
+
+
+## Devops Realted Tools:     
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,aws,docker,kubernetes,jenkins,ansible,terraform,grafana,prometheus)](https://skillicons.dev)
+
+## Development Related Tools and Technologies
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,express,py,rust,lua,neovim)](https://skillicons.dev)  
+<br>                                                                                                                              
 </div>
 <br>
 
