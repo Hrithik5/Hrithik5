@@ -29,7 +29,7 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
     <a href="https://github.com/Hrithik5">
     <img src="https://skillicons.dev/icons?i=github,">
     </a>  
-    <a href="www.linkedin.com/in/hrithik-chauhan">
+    <a href="https://www.linkedin.com/in/hrithik-chauhan/">
     <img src="https://skillicons.dev/icons?i=linkedin,">
     </a>
     <a href="https://x.com/Hrithik_5">
