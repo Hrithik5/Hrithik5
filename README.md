@@ -25,7 +25,11 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
  <br>   
 
  >### CONNECT WITH ME: 
-
+<p>
+  <a href="https://github.com/Hrithik5">
+    <img src="https://skillicons.dev/icons?i=github,">
+  </a>
+</p>
 <br></br> 
 
 
