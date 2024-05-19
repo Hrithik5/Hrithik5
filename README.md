@@ -12,7 +12,7 @@ contact: hrithikchauhan01@gmail.com
 fields_of_interests:
   [
    "Open Source Development"
-    "Cloud Computing",
+    "Cloud Native Projects",
     "DevOps",
     "System Design",
     "Rust",
