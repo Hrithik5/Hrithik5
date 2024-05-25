@@ -44,7 +44,7 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,aws,docker,kubernetes,jenkins,ansible,terraform,grafana,prometheus)](https://skillicons.dev)
 
 ## Development Related Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,express,py,rust,lua,neovim)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,express,py,go,lua,neovim)](https://skillicons.dev)  
 <br>                                                                                                                              
 </div>
 <br>
