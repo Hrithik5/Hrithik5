@@ -11,11 +11,10 @@ contact: hrithikchauhan01@gmail.com
 
 fields_of_interests:
   [
-   "Open Source Development"
+    "Open Source Projects"
     "Cloud Native Projects",
     "DevOps",
     "System Design",
-    "Rust",
     "Neovim"
   ]
   
@@ -41,7 +40,7 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
 
 ## Devops Realted Tools:     
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,aws,docker,kubernetes,jenkins,ansible,terraform,grafana,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,aws,docker,kubernetes,jenkins,terraform)](https://skillicons.dev)
 
 ## Development Related Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,ts,express,py,go,lua,neovim)](https://skillicons.dev)  
