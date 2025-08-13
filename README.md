@@ -1,8 +1,12 @@
-![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)  
-### <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Hrithik Chauhan</h1>  
-<h3 align="center">DevOps and Cloud Computing Enthusiast </h3>
-<br>                                                                              
-                                                                 
+### <h1 align="center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Hrithik Chauhan</h1>  
+
+<div align="center">
+
+[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
+
+</div>
+<br />
+                                                                                                                                         
  ```yaml
 name: Hrithik Chauhan
 located_in: Mumbai,India
@@ -23,19 +27,19 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
            
  <br>   
 
- ## Connect with me:
-  <p>
-    <a href="https://github.com/Hrithik5">
-    <img src="https://skillicons.dev/icons?i=github,">
-    </a>  
-    <a href="https://www.linkedin.com/in/hrithik-chauhan/">
-    <img src="https://skillicons.dev/icons?i=linkedin,">
-    </a>
-    <a href="https://x.com/Hrithik_5">
-    <img src="https://skillicons.dev/icons?i=twitter,">
-    </a>
-  </p>
-<br></br> 
+## Connect with me:
+<p>
+  <a href="https://github.com/Hrithik5">
+    <img src="https://skillicons.dev/icons?i=github">
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hrithik-chauhan/">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a> &nbsp;&nbsp;
+  <a href="https://x.com/Hrithik_5">
+    <img src="https://skillicons.dev/icons?i=twitter">
+  </a>
+</p>
+
 
 
 ## Devops Realted Tools:     
