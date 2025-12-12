@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
+[![Cloud Engineer | AI Infrastructure | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/Cloud_Engineer_%7C_AI_Infrastructure_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
 
 </div>
 <br />
