@@ -51,18 +51,3 @@ currently_looking_for: ["Full-Time Roles","Contributing Opportunities"]
 <br>                                                                                                                              
 </div>
 <br>
-
-## My Contribution Streak
-
-
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&theme=bear&">
- 
-  <a href="https://github.com/Hrithik5/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik5&theme=bear&hide_border=true&"/>
-  </a>
- 
- </p>
-<!-- ![Hrithik's github stats](https://github-readme-stats.vercel.app/api?username=Hrithik5&show_icons=true&hide_border=truetheme=cobalt) -->
-
-                      
