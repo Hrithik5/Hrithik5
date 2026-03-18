@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif" width="250" height="200">
 
-Hi, I’m <strong>Hrithik Chauhan.</strong>
+I’m <strong>Hrithik Chauhan.</strong>
 
 I work on cloud infrastructure and platform systems, making sure things stay up, scale properly, and don’t surprise anyone at 2 AM.
 
