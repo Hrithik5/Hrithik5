@@ -60,9 +60,9 @@ Currently open to full-time roles in backend, cloud, or platform engineering —
 --- 
  
  #### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hrithik5&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Hrithik5&theme=default&hide_border=false)<br/>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik5&hide_border=true" width="500"/>
+</p>
 
 
 
