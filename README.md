@@ -1,18 +1,18 @@
 <img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif" width="250" height="200">
 
-I’m <strong>Hrithik Chauhan.</strong>
+I’m **Hrithik Chauhan.**
 
-I work on cloud infrastructure and platform systems, making sure things stay up, scale properly, and don’t surprise anyone at 2 AM.
+I work on cloud infrastructure and data platforms, building systems that stay reliable, scale properly, and don’t surprise anyone at 2 AM.
 
-My focus is on automation, reliability, and building systems that can take care of themselves using Terraform, AWS, Docker, Kubernetes, and CI/CD pipelines.
+My focus is on automation, reliability, and building production-style systems using AWS, Terraform, Python, Kafka, PySpark, Databricks, Docker, and CI/CD pipelines.
 
-I’m particularly interested in system design and backend engineering, especially how distributed systems behave when things inevitably go wrong, because they always do.
+I’m particularly interested in system design, data engineering, and backend engineering — especially how distributed systems process data, handle failures, and recover when things inevitably go wrong.
 
-Lately, I’ve been building infrastructure automation projects like drift detection and auto-remediation systems essentially reducing the need for humans to fix what machines can fix themselves.
+Lately, I’ve been building end-to-end engineering projects across cloud infrastructure, event-driven systems, real-time streaming, and data platforms — from infrastructure drift detection and automated remediation to media processing and real-time financial data pipelines.
 
-I prefer solving real system problems over just using tools, understanding why something works matters more than just getting it to run.
+I prefer solving real system problems over just using tools. Understanding why something works matters more than just getting it to run.
 
-Currently open to full-time roles in backend, cloud, or platform engineering — where complexity is expected and reliability actually matters.
+Currently focused on building deeper expertise in cloud and data engineering, with AWS Data Engineer certification and full-time opportunities as my next steps.
 
 --- 
 
@@ -28,10 +28,6 @@ Currently open to full-time roles in backend, cloud, or platform engineering —
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
@@ -42,30 +38,24 @@ Currently open to full-time roles in backend, cloud, or platform engineering —
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apache kafka logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="apache spark logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg" height="40" alt="databricks logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
---- 
+
  
-<!-- #### 📊 GitHub Stats:
- <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik5&hide_border=true" width="500"/>
-</p> -->
-
-
-
-
-
-
